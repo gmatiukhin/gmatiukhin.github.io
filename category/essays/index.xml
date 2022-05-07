@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Essays | Academic</title>
+    <link>https://example.com/category/essays/</link>
+      <atom:link href="https://example.com/category/essays/index.xml" rel="self" type="application/rss+xml" />
+    <description>Essays</description>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en</language><lastBuildDate>Sat, 07 May 2022 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>https://example.com/media/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_512x512_fill_lanczos_center_3.png</url>
+      <title>Essays</title>
+      <link>https://example.com/category/essays/</link>
+    </image>
+    
+    <item>
+      <title>CI/CD concepts</title>
+      <link>https://example.com/post/ci-cd/</link>
+      <pubDate>Sat, 07 May 2022 00:00:00 +0000</pubDate>
+      <guid>https://example.com/post/ci-cd/</guid>
+      <description>&lt;h2 id=&#34;definition&#34;&gt;Definition&lt;/h2&gt;
+&lt;p&gt;CI and CD stand for continuous integration and continuous delivery/continuous deployment. In very simple terms, CI is a modern software development practice in which incremental code changes are made frequently and reliably. Automated build-and-test steps triggered by CI ensure that code changes being merged into the repository are reliable. The code is then delivered quickly and seamlessly as a part of the CD process. In the software world, the CI/CD pipeline refers to the automation that enables incremental code changes from developers’ desktops to be delivered quickly and reliably to production.&lt;/p&gt;
+&lt;h2 id=&#34;why-is-cicd-important&#34;&gt;Why is CI/CD important?&lt;/h2&gt;
+&lt;p&gt;CI/CD allows organizations to ship software quickly and efficiently. CI/CD facilitates an effective process for getting products to market faster than ever before, continuously delivering code into production, and ensuring an ongoing flow of new features and bug fixes via the most efficient delivery method.&lt;/p&gt;
+&lt;h2 id=&#34;what-is-the-difference-between-ci-and-cd&#34;&gt;What is the difference between CI and CD?&lt;/h2&gt;
+&lt;p&gt;Continuous integration (CI) is practice that involves developers making small changes and checks to their code. Due to the scale of requirements and the number of steps involved, this process is automated to ensure that teams can build, test, and package their applications in a reliable and repeatable way. CI helps streamline code changes, thereby increasing time for developers to make changes and contribute to improved software.&lt;/p&gt;
+&lt;p&gt;Continuous delivery (CD) is the automated delivery of completed code to environments like testing and development. CD provides an automated and consistent way for code to be delivered to these environments.&lt;/p&gt;
+&lt;p&gt;Continuous deployment is the next step of continuous delivery. Every change that passes the automated tests is automatically placed in production, resulting in many production deployments.&lt;/p&gt;
+&lt;p&gt;Continuous deployment should be the goal of most companies that are not constrained by regulatory or other requirements.&lt;/p&gt;
+&lt;p&gt;In short, CI is a set of practices performed as developers are writing code, and CD is a set of practices performed after the code is completed.&lt;/p&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>
