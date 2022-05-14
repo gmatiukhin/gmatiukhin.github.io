@@ -5,12 +5,22 @@
     <link>https://example.com/tag/live/</link>
       <atom:link href="https://example.com/tag/live/index.xml" rel="self" type="application/rss+xml" />
     <description>Live</description>
-    <generator>Wowchemy (https://wowchemy.com)</generator><language>en</language><lastBuildDate>Sat, 07 May 2022 00:00:00 +0000</lastBuildDate>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en</language><lastBuildDate>Sat, 14 May 2022 00:00:00 +0000</lastBuildDate>
     <image>
       <url>https://example.com/media/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_512x512_fill_lanczos_center_3.png</url>
       <title>Live</title>
       <link>https://example.com/tag/live/</link>
     </image>
+    
+    <item>
+      <title>Report of the week from 05.08 to 05.14</title>
+      <link>https://example.com/post/past-week-report-05.14/</link>
+      <pubDate>Sat, 14 May 2022 00:00:00 +0000</pubDate>
+      <guid>https://example.com/post/past-week-report-05.14/</guid>
+      <description>&lt;h2 id=&#34;the-week&#34;&gt;The week&lt;/h2&gt;
+&lt;p&gt;The development of the 3D Engine mentioned in the previous post is in full swing. I have a good feeling I will be able to finish it during the next week.&lt;/p&gt;
+</description>
+    </item>
     
     <item>
       <title>Report of the week from 05.01 to 05.07</title>

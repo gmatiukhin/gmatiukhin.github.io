@@ -5,12 +5,72 @@
     <link>https://example.com/category/essays/</link>
       <atom:link href="https://example.com/category/essays/index.xml" rel="self" type="application/rss+xml" />
     <description>Essays</description>
-    <generator>Wowchemy (https://wowchemy.com)</generator><language>en</language><lastBuildDate>Sat, 07 May 2022 00:00:00 +0000</lastBuildDate>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en</language><lastBuildDate>Sat, 14 May 2022 00:00:00 +0000</lastBuildDate>
     <image>
       <url>https://example.com/media/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_512x512_fill_lanczos_center_3.png</url>
       <title>Essays</title>
       <link>https://example.com/category/essays/</link>
     </image>
+    
+    <item>
+      <title>Lightweight Markup Languages</title>
+      <link>https://example.com/post/markup/</link>
+      <pubDate>Sat, 14 May 2022 00:00:00 +0000</pubDate>
+      <guid>https://example.com/post/markup/</guid>
+      <description>&lt;h2 id=&#34;what-is-a-markup-language&#34;&gt;What is a markup language?&lt;/h2&gt;
+&lt;p&gt;Lightweight markup language is a modern system for annotating a document in a way that is syntactically distinguishable from the text, and designed with a simple readable syntax. In fact, the syntax is so basic that anyone can quickly learn to use these markup languages. The key advantage of this type of language is that it is designed to be easy to enter the annotated text in a text editor, and at the same time easy to follow the document source.&lt;/p&gt;
+&lt;p&gt;This type of language has plain text formats, with very simple special characters or strings that mark up section headers, lists, tables, link syntax, font faces and so on.&lt;/p&gt;
+&lt;p&gt;There are a number of uses for lightweight markup languages. We live in a world where there is a constant stream of emails, memos, articles, reports, and tweets. Many people write, rearrange and reuse text. Lightweight markup languages are helpful in this regard, saving lots of time over hand-crafted HTML tags, speeding up any writing-related process. They also are particularly strong where the reader wants to read the document source as well as the output. Moreover, they are frequently used in web-based publishing, including wikis and weblogs.&lt;/p&gt;
+&lt;p&gt;By using these open source tools, individuals can produce high quality annotated text within a few minutes, and at no cost at all. The code is portable, and can be output to documents in a wide array of formats.&lt;/p&gt;
+&lt;p&gt;Let’s explore the 9 lightweight markup languages at hand. For each title we have compiled its own portal page, a full description with an in-depth analysis of its features, together with links to relevant resources.&lt;/p&gt;
+&lt;table&gt;
+&lt;thead&gt;
+&lt;tr&gt;
+&lt;th&gt;Language&lt;/th&gt;
+&lt;th&gt;Description&lt;/th&gt;
+&lt;/tr&gt;
+&lt;/thead&gt;
+&lt;tbody&gt;
+&lt;tr&gt;
+&lt;td&gt;Markdown&lt;/td&gt;
+&lt;td&gt;Markup language and Text-to-HTML conversion tool&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;MultiMarkdown&lt;/td&gt;
+&lt;td&gt;Based on Markdown with additional features&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;GigHub Flavored Markdown&lt;/td&gt;
+&lt;td&gt;For user content on GitHub.com and GitHub Enterprise&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;Markdown Extra&lt;/td&gt;
+&lt;td&gt;Lightweight markup language based on Markdown&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;AsciiDoc&lt;/td&gt;
+&lt;td&gt;Presentable text document format for writing articles&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;Textile&lt;/td&gt;
+&lt;td&gt;Billed as a &amp;ldquo;humane web text generator&amp;rdquo;&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;Texy&lt;/td&gt;
+&lt;td&gt;Text-to-XHTML formatter and converter library&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;Tome&lt;/td&gt;
+&lt;td&gt;Markup Language and Tool Suite for Authors&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;reStructuredText&lt;/td&gt;
+&lt;td&gt;Markup Syntax and Parser Component of Docutils&lt;/td&gt;
+&lt;/tr&gt;
+&lt;/tbody&gt;
+&lt;/table&gt;
+</description>
+    </item>
     
     <item>
       <title>CI/CD concepts</title>
